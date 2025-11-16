@@ -22,7 +22,7 @@
 
 📬 Reach out to me:  
 - ✉️ Email: [SumitkumarBarnwal2019@gmail.com](mailto:sumitkumarbarnwal2019@gmail.com)  
-- 💼 LinkedIn: [Sumit kumar barnwal](https://www.linkedin.com/in/abhinav--jindal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 💼 LinkedIn: [Sumit kumar barnwal](https://www.linkedin.com/in/sumit-kumar-barnwal-323911289/) 
 - 🧑‍💻 GitHub: You’re already here 😉  
 
 ---
