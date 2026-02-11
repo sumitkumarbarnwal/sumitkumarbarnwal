@@ -1,77 +1,67 @@
-👋 Hi, I'm Sumit Kumar Barnwal
+👋 Hi there! I'm Sumit Kumar Barnwal
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+🚀 About Me
 
-🎓 B.Tech CSE (3rd Year) | AI Intern | Software Developer
-📍 India
+🔭 Currently working as an AI Intern at Infosys Springboard
+🎓 I'm a 3rd-year B.Tech CSE student at Lovely Professional University, passionate about building real-world tech solutions.
+💡 I specialize in Software Development, Data Structures & Algorithms, AI/ML, and DevOps.
 
-💼 Professional Summary
+🤖 Working on real-world AI & Machine Learning applications
 
-AI Intern at Infosys Springboard with hands-on experience in building AI-driven and full-stack applications.
+🔭 Building full-stack & AI-powered intelligent systems
 
-Strong foundation in Data Structures & Algorithms (Java/C++), Machine Learning, and scalable backend systems. Passionate about solving real-world problems using intelligent systems and clean architecture.
+📊 Pursuing Data Science as a minor
 
-Currently preparing for Software Development & AI/ML roles.
+🧠 Preparing for placements with hands-on DSA practice in Java and C++
 
-🏢 Experience
-🤖 AI Intern — Infosys Springboard
+☁️ Oracle Java Foundations & OCI AI Foundations Associate certified
 
-Working on real-world AI/ML projects and intelligent automation systems
+🏆 Secured 5th position at Hackathon @ Innovate X
 
-Implementing ML models using Python (NumPy, Pandas, Scikit-learn)
+⭐ Solved 150+ problems on LeetCode, 5⭐ badge on HackerRank, and active member of multiple tech clubs
 
-Applying data preprocessing, model evaluation, and performance optimization
+🤝 Let's Connect & Collaborate
 
-Contributing to practical AI solutions with industry-oriented workflows
+🔹 Open to AI/ML Projects, Full-Stack Development, Java Applications, Cloud & DevOps
+🔹 Enthusiastic about Hackathons, Open Source, Research, and Tech Communities
+🔹 Interested in building scalable AI-powered solutions
 
-🎓 Education
+📬 Reach out to me:
 
-🎓 B.Tech in Computer Science & Engineering
-Lovely Professional University
+✉️ Email: SumitkumarBarnwal2019@gmail.com
 
-Minor in Data Science
+💼 LinkedIn: Sumit Kumar Barnwal
 
-Strong academic focus on Algorithms, OOP, DBMS, OS, and Machine Learning
+🧑‍💻 GitHub: You’re already here 😉
 
-🛠 Technical Skills
-💻 Programming
+🛠 Tech Stack
 
+Languages:
 Java | C++ | Python | JavaScript | SQL
 
-🤖 AI / Machine Learning
+AI / ML & Data Science:
+NumPy | Pandas | Scikit-learn | Matplotlib | Machine Learning | Deep Learning
 
-Machine Learning | Data Preprocessing | Model Evaluation | NumPy | Pandas | Scikit-learn | Matplotlib
+Frontend:
+React.js | HTML5 | CSS3 | Tailwind
 
-🌐 Full Stack Development
+Backend:
+Node.js | Express | Firebase | MongoDB | MySQL
 
-React.js | Node.js | Express | MongoDB | MySQL | Firebase
+Tools:
+Git | GitHub Actions | VS Code | Postman | Netlify | Figma
 
-☁️ Cloud & DevOps
+Cloud & DevOps:
+Oracle Cloud Infrastructure (OCI) | Firebase Hosting
 
-Oracle Cloud Infrastructure (OCI) | GitHub Actions | Firebase Hosting | Git
+📊 GitHub Overview
 
-🏆 Achievements
+(You can add GitHub stats cards here if needed)
 
-🏅 5th Position — Hackathon @ Innovate X
+⚡ Fun Fact
 
-⭐ 150+ DSA problems solved (LeetCode)
+I enjoy transforming complex problems into elegant AI-driven solutions and constantly exploring emerging technologies.
 
-🌟 5★ Badge on HackerRank
+🎯 Currently diving deeper into AI/ML, Generative AI, and Web3 to build future-ready applications.
 
-📜 Oracle Java Foundations Certified
-
-📜 OCI AI Foundations Associate Certified
-
-🚀 What I Bring
-
-✔ Strong problem-solving mindset with hands-on DSA practice
-✔ Practical AI/ML implementation experience
-✔ Ability to design scalable full-stack systems
-✔ Fast learner with adaptability to new tech stacks
-✔ Experience working in collaborative and hackathon environments
-
-📬 Contact
-
-📧 Email: SumitkumarBarnwal2019@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/sumit-kumar-barnwal-323911289/
-
-"Building intelligent systems that solve real problems."
+✨ "Code. Create. Innovate. Repeat." ✨
