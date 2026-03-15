@@ -37,10 +37,10 @@ Contributing to practical AI solutions with industry-oriented workflows
 ## 🛠 Tech Stack 
 **AI / Machine Learning**: Machine Learning | Data Preprocessing | Model Evaluation | NumPy | Pandas | Scikit-learn | Matplotlib
 **Languages:** Java | C++ | JavaScript | Python | SQL  
-**Frontend:** React.js | HTML5 | CSS3 | Tailwind  
-**Backend:** Node.js | Firebase | MongoDB | MySQL | Express  
+**Frontend:** React.js(Learning) | HTML5 | CSS3 |  
+**Backend:** Node.js(Learning) | Firebase | MongoDB | MySQL |   
 **Tools:** Git | VS Code | Postman | Netlify | Figma  
-**Cloud & DevOps:** Oracle Cloud | GitHub Actions | Firebase Hosting  
+**Cloud & DevOps:** Amazon Web Services | GitHub Actions | Firebase Hosting  
 
 ---
 
